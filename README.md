@@ -13,6 +13,12 @@
 
 A full-stack starter template with React & Hardhat to develop, deploy, and test Solidity smart contracts on the Mantle network. The starter kit also includes pre-installed `tailwindcss`, `web3.js`, etc. packages.
 
+## 📺 Quickstart
+
+<div align="center">
+  <img src="/demo.gif" />
+</div>
+
 ## 🛠️ Installation guide
 
 ### ⌛️ create-mantle-dapp command
