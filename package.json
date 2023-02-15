@@ -1,6 +1,6 @@
 {
   "name": "create-mantle-dapp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A full-stack starter template with React & Hardhat to develop, deploy, and test Solidity smart contracts on the Mantle network.",
   "bin": "./bin/index.js",
   "author": "Akhilesh Thite",
