@@ -53,7 +53,7 @@ npx hardhat test
 
 After successful compilation, the artifacts directory will be created in `./src/artifacts` with a JSON `/contracts/<your-contracts>.sol/<your-contracts>.json` containing ABI and Bytecode of your compiled smart contracts.
 
-Please make the changes while [Importing]() the JSON in `./src/app.js`.
+Please make the changes while [Importing](https://github.com/akhileshthite/create-mantle-dapp/blob/e0ba9b3bf48552725cef54a0d4ef5557d600e981/src/App.js#L8) the JSON in `./src/app.js`.
 
 ### ⛓️ Deploy
 
@@ -67,7 +67,7 @@ For deploying the smart contracts to Mantle network, type the following command:
 npx hardhat run --network mantle_testnet scripts/deploy.js
 ```
 
-Copy-paste the deployed contract address [here]()
+Copy-paste the deployed contract address [here](https://github.com/akhileshthite/create-mantle-dapp/blob/e0ba9b3bf48552725cef54a0d4ef5557d600e981/src/App.js#L31)
 
 ```sh
 <your-contract> deployed to: 0x...
